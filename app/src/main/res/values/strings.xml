@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DemoApp1</string>
+
+    <string-array name="cat_names">
+        <item>George</item>
+        <item>Zubin</item>
+        <item>Carlos</item>
+        <item>Frank</item>
+        <item>Charles</item>
+        <item>Simon</item>
+        <item>Fezra</item>
+        <item>Henry</item>
+        <item>Schuster</item>
+        <item>Abe</item>
+        <item>Sally</item>
+        <item>Geordie</item>
+        <item>Alex</item>
+        <item>Ebenezer</item>
+        <item>Ulric</item>
+        <item>Donovan</item>
+    </string-array>
+</resources>
